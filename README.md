@@ -6,4 +6,8 @@
 npm install -g create-weidaluo-template
 create-weidaluo-template [projectName]
 ```
-
+### 开发
+```
+npm link
+npx create-weidaluo-template [projectName]
+```
